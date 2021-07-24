@@ -1,6 +1,6 @@
 ディレクトリ名を使用したいプロジェクト名に変更
 
-ディレクトリ内のすべてのファイルの「GatsuRails」という文字を使用したいプロジェクト名に置換
+ディレクトリ内のすべてのファイルの「rails」という文字を使用したいプロジェクト名に置換
 ```
 $docker-compose build
 $docker-compose run --rm app rails new ./ -d mysql
